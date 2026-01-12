@@ -1,9 +1,8 @@
 # Virtual Reality project
 ##### Aarhus University - AY 2024-2025
  
-- [Lab 1 report](./Lab 1 Report.pdf) and video demo: https://youtu.be/TH3jSzocLgY 
-
-- [Lab 2 report](./Lab 2 Report.pdf) and video demo: https://youtu.be/K5C-fdNedKE
+- [Lab 1 Report](./Lab%201%20Report.pdf) | [Video Demo](https://youtu.be/TH3jSzocLgY)
+- [Lab 2 Report](./Lab%202%20Report.pdf) | [Video Demo](https://youtu.be/K5C-fdNedKE)
 
 **Group members**:
 - Ginevra Bozza, AU778747 
